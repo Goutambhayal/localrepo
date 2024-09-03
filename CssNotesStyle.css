@@ -102,3 +102,23 @@ main{
     font-size: 20px;
     
 }
+#oneZeroSix{
+    h2{
+        color:rgb(238, 47, 149);
+
+    }
+    ol{
+       li{ color:rgb(175, 143, 63);
+        font-size:18px ;
+        
+       }ul{
+        li{
+            color:aliceblue;
+            font-size:18px;
+        }
+       }
+
+
+    }
+    
+}
